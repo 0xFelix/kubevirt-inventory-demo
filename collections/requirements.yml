@@ -1,0 +1,4 @@
+collections:
+  - name: https://github.com/0xFelix/kubernetes.kubevirt.git
+    type: git
+    version: main

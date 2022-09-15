@@ -1,0 +1,4 @@
+plugin: kubernetes.kubevirt.kubevirt
+connections:
+  - namespaces:
+    - kubevirt
