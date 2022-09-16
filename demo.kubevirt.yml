@@ -1,4 +1,5 @@
 plugin: kubernetes.kubevirt.kubevirt
 connections:
-  - namespaces:
-    - kubevirt
+  - virtctl_proxy: True
+    namespaces:
+      - kubevirt
