@@ -1,0 +1,4 @@
+- name: Collect facts
+  hosts: all
+  tasks:
+    - ansible.builtin.setup:
