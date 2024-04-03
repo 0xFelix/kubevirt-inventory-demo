@@ -1,5 +1,0 @@
-plugin: kubernetes.kubevirt.kubevirt
-connections:
-  - virtctl_proxy: True
-    namespaces:
-      - kubevirt
