@@ -1,0 +1,3 @@
+plugin: kubevirt.core.kubevirt
+connections:
+  - append_base_domain: True
