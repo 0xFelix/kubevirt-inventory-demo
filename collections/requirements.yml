@@ -1,6 +1,2 @@
 collections:
-  - name: kubernetes.core
-    version: 3.0.1
-  - name: https://github.com/0xFelix/kubevirt.core.git
-    type: git
-    version: dev
+  - name: kubevirt.core
